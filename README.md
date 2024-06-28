@@ -1,4 +1,4 @@
-# Electronic Voting System - Laravel Backend API Documentation
+# E-Voting System - Laravel Backend API Documentation
 
 This repository contains the backend API implementation for an electronic voting system using Laravel. It provides endpoints for user authentication, voter registration, candidate management, voting, and admin operations.
 
